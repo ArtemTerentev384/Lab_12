@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(55,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(116,11): warning C4552: "+": результат выражения не используется
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(122,11): warning C4552: "-": результат выражения не используется
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,40): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,50): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,55): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,60): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,65): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\Lab_12\Source.c(100,70): warning C4305: инициализация: усечение из "double" в "float"
+  Lab_12.vcxproj -> C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_12\x64\Debug\Lab_12.exe
